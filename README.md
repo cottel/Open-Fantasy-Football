@@ -8,15 +8,25 @@ I've been in technology for about 20+ years and am familiar with infrastructure,
 Some obervations of the industry NFL Fantasy Football platforms - 
 
 Provides lack luster graphics and themes for extreme Fans
+
 Fans don’t access sites except to change their lineup once a week 
+
 Themes are generic and lack enthusiasm for the Fan
+
 Multiple disparate game sites
+
 Can't really talk smack with friends during the games, or during the week
+
 No real time game action, except to watch single players in different games
+
 No repetitive awards or bonuses to keep players engaged (Fortnite model)
+
 Content is not updated enough to keep players engaged
+
 Multiple disparate news sources without real intelligent "True Source Leaders" (Jane Slater, Ian Rapport, etc….based on teams(twitter, NFL reports, reddit, fan blogs etc..)
+
 Mobile app content is lackluster and doesn’t allow for teammates to interact real-time (except to text natively from IOS or Droid)
+
 Content is game site specific to whichever genre or flavor of game site your league is in….cant play across games platforms (NFL, ESPN, Yahoo, CBS, draft kings, etc)
 
 Some general ideas to start with, but needs additional work to flush out pyschology of the game, potential business cases etc to keep the site self funded.
